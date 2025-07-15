@@ -26,7 +26,7 @@ POST /api/v1/play
 
 ## Submission Guide
 
-- Fork this repo, make it private and invite the interviewer to the repo
+- Fork this repo, make it private and invite the interviewer(s) (`DaniloEsser-GM`,`GM-Johnny` and `philemonphilip`) to the repo
 - Implement code
 - Let your interviewer know when you are done
 - **Delete repo after the hiring process**
